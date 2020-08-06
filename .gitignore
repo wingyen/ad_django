@@ -129,3 +129,5 @@ dmypy.json
 
 .postgresql
 tmp/
+db.sqlite3
+/csv
