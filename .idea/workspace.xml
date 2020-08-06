@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b603756f-0a2d-4d05-8ca5-e1a0c95a24fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ad_task_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/migrations/0002_auto_20200806_0758.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_task_django/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_task_django/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_task_django/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_task_django/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_task_django/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/csv/dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="ad_data_adjust: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fgYRMFV8RhxKYHCS54ig0twXv5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ad_task_django" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ad_task_django" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b603756f-0a2d-4d05-8ca5-e1a0c95a24fe" name="Default Changelist" comment="" />
+      <created>1596641194074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596641194074</updated>
+      <workItem from="1596641199787" duration="2097000" />
+      <workItem from="1596644382415" duration="3468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596700413377">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1596700413377" />
+    <state x="463" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596642168592">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="463" y="275" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1596642168592" />
+    <state x="505" y="211" key="FileChooserDialogImpl" timestamp="1596644310993">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="505" y="211" key="FileChooserDialogImpl/0.0.1536.960@0.0.1536.960" timestamp="1596644310993" />
+    <state width="270" height="548" key="HiddenNamespacesPopup" timestamp="1596700399359">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="270" height="548" key="HiddenNamespacesPopup/0.0.1536.960@0.0.1536.960" timestamp="1596700399359" />
+    <state x="389" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1596641220468">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="389" y="274" key="com.intellij.ide.util.TipDialog/0.0.1536.960@0.0.1536.960" timestamp="1596641220468" />
+  </component>
+</project>
