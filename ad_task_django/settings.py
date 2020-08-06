@@ -36,7 +36,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_countries',
-    'csvimport.app.CSVImportConf'
+    'csvimport.app.CSVImportConf',
+    'rest_framework'
 ]
 
 # Our Apps

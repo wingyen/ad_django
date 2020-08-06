@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b603756f-0a2d-4d05-8ca5-e1a0c95a24fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ad_data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/ad_data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ad_data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ad_data/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ad_task_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ad_task_django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ad_task_django/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ad_task_django/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,29 +29,18 @@
     <expand>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="ad_db" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
-        <item name="ad_data_adjust: table" type="3d80ac25:SqliteImplModel$Table" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
       </path>
     </expand>
     <select />
@@ -107,6 +102,7 @@
       <updated>1596641194074</updated>
       <workItem from="1596641199787" duration="2097000" />
       <workItem from="1596644382415" duration="4400000" />
+      <workItem from="1596704085195" duration="16841000" />
     </task>
     <servers />
   </component>
@@ -117,10 +113,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596700413377">
+    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596709814345">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1596700413377" />
+    <state x="368" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1596709814345" />
     <state x="463" y="275" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596642168592">
       <screen x="0" y="0" width="1536" height="960" />
     </state>

@@ -5,6 +5,7 @@ from django_countries.fields import CountryField
 class Adjust(models.Model):
     class Meta:
         ordering = ('date', )
+
     date = models.DateField()
     channel = models.CharField(max_length=100)
     country = CountryField()
