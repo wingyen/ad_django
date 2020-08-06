@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b603756f-0a2d-4d05-8ca5-e1a0c95a24fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ad_task_django.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/migrations/0002_auto_20200806_0758.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_data/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_task_django/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_task_django/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_task_django/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_task_django/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ad_task_django/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv/dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596641194074</updated>
       <workItem from="1596641199787" duration="2097000" />
-      <workItem from="1596644382415" duration="3468000" />
+      <workItem from="1596644382415" duration="3923000" />
     </task>
     <servers />
   </component>
