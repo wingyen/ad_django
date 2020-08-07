@@ -17,8 +17,8 @@ class AdjustViewSet(viewsets.ModelViewSet):
     permission_classes = [AllowAny]
 
 
-def group_set(queryset_in_date_range):
-    data = queryset_in_date_range \
+def group_set(queryset):
+    data = queryset \
         .values('channel', 'country') \
         .order_by('channel', 'country') \
         .annotate(impressions=Sum('impressions'), clicks=Sum('clicks')) \
@@ -74,7 +74,6 @@ def use_cases(request):
             .order_by('-revenue')
         data = list(queryset)
 
-
     if country and cpi:
         country = country.upper()
         queryset = Adjust.objects.filter(country=country) \
@@ -83,7 +82,7 @@ def use_cases(request):
                       installs_sum=Sum('installs', output_field=FloatField())
                       ) \
             .annotate(cpi=F('spend_sum') / F('installs_sum')) \
-            .order_by('-cpi')
+            .order_by('-cpi')  # maybe use average to calculate cpi?
 
         data = list(queryset)
 

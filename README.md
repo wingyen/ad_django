@@ -21,5 +21,5 @@ http://127.0.0.1:8000/api/adjust/use_cases/?year=2017&month=05&os=ios
 http://127.0.0.1:8000/api/adjust/use_cases/?date=2017-06-01&country=us
 
 4. Show CPI and spend for Canada (CA) broken down by channel ordered by CPI in descending order.
-http://127.0.0.1:8000/api/adjust/use_cases/?cpi=true&country=us
+http://127.0.0.1:8000/api/adjust/use_cases/?cpi=true&country=ca
 
