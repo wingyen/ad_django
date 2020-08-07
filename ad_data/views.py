@@ -85,5 +85,8 @@ def use_cases(request):
             .order_by('-cpi')  # maybe use average to calculate cpi?
 
         data = list(queryset)
+        # limit cpi result to 2 decimal places
+        for item in data:
+            item["cpi"] = "{:.2f}".format(item["cpi"])
 
     return JsonResponse(data=data, safe=False)
